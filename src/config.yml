@@ -1,0 +1,24 @@
+##
+##
+##
+##
+##
+GruposFakes:
+  - VIP
+  - VIP+
+  - MVP
+
+GruposTags:
+  VIP:
+    prefix: "&6[VIP] &f"
+  VIP+:
+    prefix: "&6[VIP&b+&6] &f"
+  MVP:
+    prefix: "&b[MVP] &f"
+
+PermissaoFake: 'sfake.usar'
+PermissaoFakeAdmin: 'sfake.admin'
+
+MensagemFakeSetado: '&eSua tag foi alterada para {prefix}'
+MensagemFakeSetadoAdmin: '&6[Fake] &eO jogador {nome} alterou seu nome para {newNome}'
+MensagemFakeRetirado: '&6sNetwork {nw} {nw}&cSua tag do fake foi &lRETIRADA'

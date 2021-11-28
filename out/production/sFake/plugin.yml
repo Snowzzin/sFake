@@ -1,0 +1,6 @@
+name: sFake
+main: me.snow.sfake.Main
+version: 1
+commands:
+  fake:
+  rfake:
